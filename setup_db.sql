@@ -1,6 +1,6 @@
 -- Create database (remove IF NOT EXISTS if database already exists)
 CREATE DATABASE quiz_app;
-thi
+
 -- Use the database
 USE quiz_app;
 
